@@ -125,6 +125,10 @@ body {
     height: 40px;
   }
 
+  .search input::placeholder{
+    font-size: 1rem;
+  }
+
   .search button {
     height: 40px;
     width: 40px;
